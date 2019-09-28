@@ -1,0 +1,14 @@
+name: xmap
+description: A helpful map for Dart.
+version: 0.0.1
+author: hz
+homepage: https://github.com/hzxiao/xmap
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+  test: ^1.3.0
+
